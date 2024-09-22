@@ -7,7 +7,7 @@ import { Field } from '~/components/ui/field'
 import { Text } from '~/components/ui/text'
 
 export const AuthenticationCard = () => (
-    <Card.Root>
+    <Card.Root w={'1/2'} h="full">
         <Card.Header>
             <Card.Title>Sign Up</Card.Title>
             <Card.Description>

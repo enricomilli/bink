@@ -7,8 +7,8 @@ export default defineConfig({
   presets: [
     '@pandacss/preset-base',
     createPreset({
-      accentColor: 'amber',
-      grayColor: 'sand',
+      accentColor: 'iris',
+      grayColor: 'sage',
       additionalColors: ['red'],
     }),
   ],

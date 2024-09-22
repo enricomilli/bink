@@ -4,11 +4,11 @@
         <key>CFBundlePackageType</key>
         <string>APPL</string>
         <key>CFBundleName</key>
-        <string>bink</string>
+        <string>Bink</string>
         <key>CFBundleExecutable</key>
-        <string>bink</string>
+        <string>Bink</string>
         <key>CFBundleIdentifier</key>
-        <string>com.wails.bink</string>
+        <string>com.wails.Bink</string>
         <key>CFBundleVersion</key>
         <string>1.0.0</string>
         <key>CFBundleGetInfoString</key>
@@ -25,5 +25,10 @@
         <string>Copyright.........</string>
         
         
+        <key>NSAppTransportSecurity</key>
+        <dict>
+            <key>NSAllowsLocalNetworking</key>
+            <true/>
+        </dict>
     </dict>
 </plist>

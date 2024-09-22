@@ -1,13 +1,13 @@
 {
-  "name": "bink",
-  "outputfilename": "bink",
-  "frontend:install": "npm install",
-  "frontend:build": "npm run build",
-  "frontend:dev:watcher": "npm run dev",
-  "frontend:dev:serverUrl": "auto",
-  "assetdir": "./frontend/dist",
-  "author": {
-    "name": "enricomilli",
-    "email": "enricomilli666@gmail.com"
-  }
+    "name": "Bink",
+    "outputfilename": "Bink",
+    "frontend:install": "npm install",
+    "frontend:build": "npm run build",
+    "frontend:dev:watcher": "npm run dev",
+    "frontend:dev:serverUrl": "auto",
+    "assetdir": "./frontend/dist",
+    "author": {
+        "name": "enricomilli",
+        "email": "enricomilli666@gmail.com"
+    }
 }
